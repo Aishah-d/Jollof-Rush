@@ -1,0 +1,8 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "earned", "label": "Naira earned", "order": "highest" },
+      { "key": "plates", "label": "Plates served", "order": "highest" }
+    ]
+  }
+}
